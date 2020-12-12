@@ -4,7 +4,7 @@ This is a challenge written by  Eric Wastl in which a history is told and the pe
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                               
-                                                                              ABOUT
+                                                                    ABOUT
 
 Hi! I'm Eric Wastl. I make Advent of Code. I hope you like it! I also made Vanilla JS, PHP Sadness, and lots of other things. You can find me on Twitter and GitHub.
 
