@@ -1,6 +1,6 @@
 # My-advent-of-code-2020
 
-This is a challenge written by  Eric Wastl in which a history is told and the people have to solve a few challenges to continue with it.Its supposed to be done one of the challenges per day , starting at first of December and ending at 25th of December like a regular advent calendar.
+This is a challenge written by  Eric Wastl in which a history is told and the people have to solve a few challenges to continue with it.Its supposed to be done one of the challenges per day , starting at first of December and ending at 25th of December like a regular advent calendar.https://adventofcode.com/
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                               
