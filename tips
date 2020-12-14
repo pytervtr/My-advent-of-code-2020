@@ -1,0 +1,5 @@
+En caso de que se quiera ejecutar por consola añadir esto en la cabecera de los ficheros.
+
+
+#!/usr/bin/python3
+#-*-encoding=UTF8-*-
